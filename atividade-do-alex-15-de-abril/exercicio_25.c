@@ -1,3 +1,6 @@
+//esse algoritmo é pra sortear ate 5 numeros
+//usei bibliotecas novas para fazer o sorteio ter resultado aleatorio sempre que é excutado
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
