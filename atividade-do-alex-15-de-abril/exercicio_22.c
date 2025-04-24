@@ -1,3 +1,5 @@
+//um algoritmo que mosta a resistencia equivalente de um circuito
+
 #include<stdio.h>
 
 int main(){
