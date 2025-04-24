@@ -1,4 +1,5 @@
-#include <stdio.h>
+//um algoritmo que tem apenas um caracter
+ #include <stdio.h>
 
 int main() {
  
