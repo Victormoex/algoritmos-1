@@ -1,3 +1,6 @@
+//esse algoritmo calcula o ano de nascimento calculando o ank bissexto
+
+
 #include<stdio.h>   
 
     int anobissexto(int ano){
