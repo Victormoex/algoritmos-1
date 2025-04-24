@@ -1,3 +1,4 @@
+//um algoritmo que deixa as palavras do usuario em ordem alfabetica
 
     #include <stdio.h>
 
