@@ -1,3 +1,5 @@
+//um algoritmo que mostra a sequencia de fibonacci sem a memorizaçao por que o juan lascou tudo
+
 #include <stdio.h>
 
 int main() {
