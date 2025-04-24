@@ -1,3 +1,5 @@
+//esse é uma algoritmo que verifica se é um trinagulo, se ele é equilatero,isoceles ou escaleno
+
 #include<stdio.h>
 
 int main(){
