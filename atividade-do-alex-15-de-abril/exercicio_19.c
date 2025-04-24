@@ -1,3 +1,5 @@
+//um algoritmo que transforma uma multplição de numero real para numero inteiro
+
 #include<stdio.h>
 #include<math.h>
 
