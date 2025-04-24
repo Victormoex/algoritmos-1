@@ -1,3 +1,4 @@
+//um algoritmo para transformar um numero real para inteiro
 #include <stdio.h>
 
 int main() {
