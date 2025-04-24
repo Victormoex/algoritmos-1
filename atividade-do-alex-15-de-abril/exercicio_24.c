@@ -1,3 +1,5 @@
+//um algoritmo que verifica que o usuario é apto a participá do exercicito brasileiro
+
 #include <stdio.h>
 
 int main() {
