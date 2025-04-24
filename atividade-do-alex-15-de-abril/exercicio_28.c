@@ -1,3 +1,5 @@
+//esse algoritmo é apenas para declara um valor real
+
 #include <stdio.h>
 
 int main() {
