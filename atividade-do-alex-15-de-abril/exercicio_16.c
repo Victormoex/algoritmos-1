@@ -1,3 +1,5 @@
+//esse algoritmo calcula uma figura pela sua base comprimente e largura
+
 #include<stdio.h>
 
 int main(){
