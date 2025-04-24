@@ -1,3 +1,5 @@
+//um algoritmo que verifica o genero do usuario e se a altura dele esta acima ou abaixo da media brasileira
+
 #include<stdio.h>
 
     int main(){
