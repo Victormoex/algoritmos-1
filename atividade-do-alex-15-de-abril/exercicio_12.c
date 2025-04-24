@@ -1,3 +1,5 @@
+//um algoritmo que limite a quantidade de caracter que o usuario pode escrever
+
 #include<stdio.h>
 
 
@@ -12,5 +14,5 @@ int main(){
 
     printf("seu nome eh: %s", nome);
 
-
+    return 0;
 }
