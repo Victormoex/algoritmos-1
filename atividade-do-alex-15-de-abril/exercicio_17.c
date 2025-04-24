@@ -1,3 +1,5 @@
+//esse algoritmo volta 5 numeros inteiros em ordem crescente
+
 #include <stdio.h>
 
 int main() {
