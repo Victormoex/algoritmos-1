@@ -1,3 +1,6 @@
+//esse algoritmo faz uma conta usando a formula de baskara
+
+
 #include <stdio.h>
 #include <math.h>
 
