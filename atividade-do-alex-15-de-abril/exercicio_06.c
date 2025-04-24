@@ -1,3 +1,5 @@
+//esse algoritmo faz a soma dos dois numeros inteiros que o usuario digitar
+
 #include<stdio.h>
 
 
