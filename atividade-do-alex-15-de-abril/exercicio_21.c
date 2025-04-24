@@ -1,3 +1,5 @@
+//um algoritmo que verifica que a divisao do usuario tem resultado par ou impar
+
 #include<stdio.h>
 
 int main(){
