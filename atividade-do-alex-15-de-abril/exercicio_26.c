@@ -1,3 +1,5 @@
+//esse algoritmo verifica se a soma dos numeros do usuario é maior que o numero 10
+
 #include<stdio.h>
 
 int main(){
