@@ -1,3 +1,5 @@
+//esse algoritmo mostra a altura do usuario seu nome idade e genero
+
 #include<stdio.h>
 
     int main(){
@@ -27,6 +29,6 @@
         printf("seu genero eh: %c \n sua idade eh: %d \n sua altura eh: %f\n seu nome eh: %s\n",genero,idade,altura,nome);
 
     
-        return 1;
+        return 0;
 
     }
