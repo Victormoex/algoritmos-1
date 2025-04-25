@@ -1,3 +1,5 @@
+//esse algoritmo mostra se o resultado da soma e um numero inteiro
+
 #include<stdio.h>
 
 int main(){
