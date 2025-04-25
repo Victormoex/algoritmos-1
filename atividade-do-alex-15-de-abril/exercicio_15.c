@@ -20,5 +20,8 @@ int main(){
     resultado2= resultado/3;
 
     printf("seu resultado é %d\n",resultado2);
+
+
+return 0;
 }
 
