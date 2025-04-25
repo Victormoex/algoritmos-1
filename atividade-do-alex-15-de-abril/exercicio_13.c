@@ -19,5 +19,5 @@ int main(){
 
     printf("Voce viveu %d dias", dias);
 
-
+return 0;
 }
