@@ -58,7 +58,7 @@ sorteio = rand() % 5 + 1;
     printf("%d", num5);
 
     }
-
+return 0;
 }
 
 
