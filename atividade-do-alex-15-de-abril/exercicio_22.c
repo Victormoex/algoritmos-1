@@ -26,6 +26,6 @@ int resi1, resi2, req;
 
 
 
-
+return 0;
 
 }   
