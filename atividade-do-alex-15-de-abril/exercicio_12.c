@@ -12,5 +12,5 @@ int main(){
 
     printf("seu nome eh: %s", nome);
 
-
+return 0;
 }
