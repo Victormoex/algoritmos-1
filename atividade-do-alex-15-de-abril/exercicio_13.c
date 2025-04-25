@@ -1,3 +1,5 @@
+// o algoritmo pega o ano de nascimento do usuario e transforma em dias
+
 #include<stdio.h>
 
 int main(){
