@@ -1,3 +1,5 @@
+// esse aqui pega digite 3 valores e soma e dps pega o resultado e divide pelo resultado
+
 #include<stdio.h>
 
 int main(){
