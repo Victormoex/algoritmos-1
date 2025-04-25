@@ -15,4 +15,8 @@
         resultado= f+b;
 
         printf("a soma dos %d+%d e igual %d\n", f,b,resultado);
+
+    return 0;
+    
+    
     }
