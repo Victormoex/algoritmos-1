@@ -6,6 +6,6 @@ int main(){
     char letra, nome, alex, algoritimo, ifms;
 
 
-
+return 0;
 
 }
