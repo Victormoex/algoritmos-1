@@ -1,3 +1,5 @@
+//esse aqui é apenas para declarar graças a deus nao tinha que fazer mais nada
+
 #include<stdio.h>
 
 int main(){
