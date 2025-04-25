@@ -1,3 +1,5 @@
+//um algoritmo que mostra um cardapio para o usuario escolherp
+
 #include<stdio.h>
 
     int main(){
