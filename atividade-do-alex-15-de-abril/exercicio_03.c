@@ -15,4 +15,7 @@ int main(){
     scanf("%d",&a,&b,&c);
 
     printf("seu numero digitado %d");
+
+return 0;
+
 }
