@@ -30,5 +30,5 @@ int main(){
         printf("Nao é um trinagulo");
     }
 
-
+return 0;
 }
