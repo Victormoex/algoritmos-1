@@ -1,3 +1,6 @@
+//esse algoritmo faz a soma dos dois numeros que o usuario escolher e o resultado da soma ser a divsao 
+
+
 #include<stdio.h>
 
 
